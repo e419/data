@@ -1,0 +1,86 @@
+,Title,Website
+0,R language ,https://www.r-project.org/about.html
+1,Python ,https://python.org
+2,RapidMiner ,https://rapidminer.com
+3,SQL language ,https://www.iso.org/standard/63555.html
+4,Excel ,https://products.office.com/en/excel
+5,KNIME ,https://www.knime.org
+6,Spark ,http://spark.apache.org
+7,Anaconda ,https://www.continuum.io
+8,scikit-learn ,http://scikit-learn.org/stable/index.html
+9,Tableau ,https://www.tableau.com
+10,Java ,https://www.oracle.com/java/index.html
+11,Tensorflow ,https://www.tensorflow.org
+12,Microsoft SQL Server ,https://www.microsoft.com/en-us/sql-server/sql-server-2016
+13,Weka ,http://www.cs.waikato.ac.nz/ml/weka/
+14,Hadoop/Spark: Open Source Hadoop Tools ,http://hadoop.apache.org
+15,SQL on Hadoop tools ,https://hive.apache.org
+16,Alteryx ,https://www.alteryx.com
+17,Dataiku ,https://www.dataiku.com
+18,H2O.ai ,https://www.h2o.ai
+19,IBM SPSS Modeler ,https://www.ibm.com/bs-en/marketplace/spss-modeler
+20,IBM SPSS Statistics ,https://www.ibm.com/us-en/marketplace/spss-statistics
+21,IBM Watson / Watson Analytics ,https://www.ibm.com/cognitive/ru-ru/outthink/
+22,MATLAB ,https://www.mathworks.com/products/matlab.html
+23,MLlib ,http://spark.apache.org/mllib/
+24,Microsoft Azure Machine Learning ,https://azure.microsoft.com/en-us/services/machine-learning/
+25,Microsoft Power BI ,https://powerbi.microsoft.com
+26,Microsoft R Server ,https://msdn.microsoft.com/en-us/microsoft-r/
+27,Orange ,https://orange.biolab.si
+28,PyCharm ,https://www.jetbrains.com/pycharm/
+29,QlikView ,http://www.qlik.com/us/
+30,SAS Base ,https://www.sas.com/en_us/software/base-sas.html
+31,SAS Enterprise Miner ,https://www.sas.com/en_us/software/enterprise-miner.html
+32,Deep Learning Platforms: Caffe ,http://caffe.berkeleyvision.org
+33,Keras ,http://keras.io/
+34,Theano ,http://deeplearning.net/software/theano/
+35,Actian ,https://www.actian.com/
+36,Alpine Data Labs ,http://alpinedata.com
+37,Amazon Machine Learning ,https://aws.amazon.com/machine-learning/
+38,Angoss ,http://www.angoss.com
+39,Ayasdi ,https://www.ayasdi.com
+40,BayesiaLab ,http://www.bayesia.com
+41,BigML ,https://bigml.com
+42,Birst ,https://www.birst.com
+43,C4.5/C5.0/See5 ,https://www.rulequest.com/see5-info.html
+44,Cazena ,http://www.cazena.com
+45,DataRobot ,https://www.datarobot.com
+46,DataScience.com ,https://www.datascience.com
+47,Domino Data Labs ,https://www.dominodatalab.com
+48,Gnu Octave ,https://www.gnu.org/software/octave/
+49,FICO ,http://www.fico.com
+50,IBM Cognos ,http://www-03.ibm.com/software/products/en/cognos-analytics
+51,IBM DSX ,https://datascience.ibm.com
+52,JMP ,https://www.jmp.com/en_us/home.html
+53,Kanri ,https://kanri-insights.com/#section1
+54,Lavastorm ,http://www.lavastorm.com
+55,Mathematica ,https://www.wolfram.com/mathematica/
+56,Mode Analytics ,https://modeanalytics.com
+57,MicroStrategy ,https://www.microstrategy.com/us
+58,Minitab ,http://www.minitab.com/en-us/
+59,Ontotext GraphDB ,http://ontotext.com/products/graphdb/
+60,Oracle Adv. Analytics ,https://www.oracle.com/database/advanced-analytics/index.html
+61,Pentaho ,http://www.pentaho.com
+62,Quest ,http://www.statsoft.com/Textbook
+63,RapidInsight/Veera ,http://www.rapidinsightinc.com/products/veera/
+64,Rattle ,http://rattle.togaware.com
+65,Salford SPM/CART/RF/MARS/TreeNet ,https://www.salford-systems.com/products/treenet#features
+66,SAP BusinessObjects Predictive Analytics ,https://www.sap.com/products/predictive-analytics.html
+67,SAP HANA ,https://www.sap.com/product/technology-platform/hana.html
+68,Sisense ,https://www.sisense.com
+69,Skytree ,http://www.skytree.net
+70,Stata ,http://www.stata.com
+71,Teradata ,http://www.teradata.com/?LangType=1033
+72,TIBCO Spotfire ,http://spotfire.tibco.com
+73,Turi ,https://turi.com
+74,Vowpal Wabbit ,https://github.com/JohnLangford/vowpal_wabbit/wiki
+75,XLMiner ,https://www.xlminer.com
+76,Clojure ,https://clojure.org
+77,F# ,http://fsharp.org
+78,Julia ,https://julialang.org
+79,DL4J ,https://deeplearning4j.org
+80,Microsoft CNTK ,https://www.microsoft.com/en-us/cognitive-toolkit/
+81,mxnet ,http://mxnet.io
+82,Lasagne ,http://lasagne.readthedocs.io/en/latest/
+83,Torch ,http://torch.ch
+84,PyTorch ,http://pytorch.org
